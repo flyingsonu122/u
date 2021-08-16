@@ -1,4 +1,6 @@
-<br><br><br><br><br><br>
+this redirects to [hlinks.herokuapp.com](https://hlinks.herokuapp.com/)
+
+<br><br><br><br>
 
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
